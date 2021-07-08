@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "faDWz8hwPm5S79mVPa96ZnewZYa0RpkMhQdu9ialPsa5FhehLRoYacQyCh0/JyOmcstBaZ1hLI6mRLZaTw8Ubw==",
+  "success": true,
+  "projectFilePath": "C:\\Clases\\Programación\\C#\\Practice\\Wpf\\WpfLogin\\WpfLogin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David_Moody\\.nuget\\packages\\materialdesigncolors\\2.0.1\\materialdesigncolors.2.0.1.nupkg.sha512",
+    "C:\\Users\\David_Moody\\.nuget\\packages\\materialdesignthemes\\4.1.0\\materialdesignthemes.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
